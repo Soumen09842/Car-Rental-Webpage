@@ -58,7 +58,7 @@ li a:hover{
 }
 /*Home Page*/
 .hero {
-  background-image: url('img/pexels-mo-eid-1268975-2631489.jpg');
+  background-image: url('pexels-mo-eid-1268975-2631489.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -410,4 +410,5 @@ li a:hover{
 	text-align: center;
 	font-size: 18px;
 	padding: 10px;
+
 }
